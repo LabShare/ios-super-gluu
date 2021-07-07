@@ -17,7 +17,7 @@
 "Home_Check_Internet"       = "Verificare la connessione internet e riprovare.";
 "Home_No_Internet"          = "Nessuna connessione internet";
 "Home_Tap_To_Scan_QR"       = "Potrebbe essere richiesto un codice QR per la registrazione od autenticazione. Cliccare sul bottone per aprire lo scanner di codici QR.";
-"Home_Welcome"              = "Benvenuto su Super Gluu!";
+"Home_Welcome"              = "Benvenuto su Labshare Auth!";
 "Home_Scan"                 = "Scansiona il codice QR";
 "Home_Remove_Ads"           = "Rimuovi pubblicità";
 "Home_QR_Not_Recognized"    = "Codice QR non riconosciuto. Prego riprovare.";
@@ -34,7 +34,7 @@
     // Subscription Details;
 "Subscription_Details" = "Dettagli della registrazione.";
 "Details"              = "Dettagli";
-"Subscription_Info"    = "L'abbonamento mensile rende Super Gluu totalmente privo di pubblicità. Dopo l'acquisto, non verranno visualizzati banner o pubblicità a tutto schermo. Una volta confermato l'acquisto, il pagamento verrà caricato sull'account iTunes. Se il rinnovo automatico non viene disabiltato almeno 24 ore prima della scadenza dell'abbonamento corrente, l'importo verrà addebitato automaticamente sull'account iTunes alla fine del periodo di sottoscrizione. Eventuali porzioni di tempo del periodo di prova decadranno automaticamente all'atto della sottoscrizione di un abbonamento. E' possibile gestire o disattivare il rinnovo automatico in qualsiasi momento, nella sezione. Configurazione dell'account Apple ID.";
+"Subscription_Info"    = "L'abbonamento mensile rende Labshare Auth totalmente privo di pubblicità. Dopo l'acquisto, non verranno visualizzati banner o pubblicità a tutto schermo. Una volta confermato l'acquisto, il pagamento verrà caricato sull'account iTunes. Se il rinnovo automatico non viene disabiltato almeno 24 ore prima della scadenza dell'abbonamento corrente, l'importo verrà addebitato automaticamente sull'account iTunes alla fine del periodo di sottoscrizione. Eventuali porzioni di tempo del periodo di prova decadranno automaticamente all'atto della sottoscrizione di un abbonamento. E' possibile gestire o disattivare il rinnovo automatico in qualsiasi momento, nella sezione. Configurazione dell'account Apple ID.";
 
     // Menu
 "Menu_Logs"           = "Registro attività";
@@ -46,10 +46,10 @@
 "Menu_Help"           = "Aiuto";
 
     // Logs;
-"Logs_Description" = "Ogni volta che Super Gluu viene utilizzato, un log di transazione viene registrato nell'app.";
+"Logs_Description" = "Ogni volta che Labshare Auth viene utilizzato, un log di transazione viene registrato nell'app.";
 
     // Passcode;
-"Passcode_Enabled_Info"   = "Se abilitato, l'accesso a Super Gluu verrà protetto dal Touch ID";
+"Passcode_Enabled_Info"   = "Se abilitato, l'accesso a Labshare Auth verrà protetto dal Touch ID";
 "Passcode_Touch"          = "Touch ID";
 "Passcode_Touch_Security" = "Touch Security";
 
@@ -68,7 +68,7 @@
 "Passcode_Next"                = "Prossimo";
 
     // SSL;
-"SSL_Info"  = "Se abilitato, Super Gluu considererà come attendibili server con certificati self-signed. Raccomandato solo per scopi di sviluppo.";
+"SSL_Info"  = "Se abilitato, Labshare Auth considererà come attendibili server con certificati self-signed. Raccomandato solo per scopi di sviluppo.";
 "SSL_Trust" = "Fidati di tutto SSL";
 
     // Log/Key Detail;
@@ -78,7 +78,7 @@
 "Log_Key_Key_Handle"  = "Gestione chiavi";
 
     // Keys;
-"Keys_Info"       = "Ogni volta che si mette in sicurezza un nuovo account con Super Gluu viene generata una chiave privata univoca che verrà salvata sul proprio device.";
+"Keys_Info"       = "Ogni volta che si mette in sicurezza un nuovo account con Labshare Auth viene generata una chiave privata univoca che verrà salvata sul proprio device.";
 "Keys_Text_Value" = "Valore testuale:";
 
     // InformationVC;
@@ -144,7 +144,7 @@
 "Failed_Attempts_Warning" = "L'app si bloccherà per 10 minuti dopo questo numero di tentativi falliti.";
 
 
-"Camera_Denied_Directions" =    "Fornisci l'accesso alla tua videocamera per procedere: \ n \ n1. Tocca il pulsante Vai per aprire Impostazioni. \ N \ n2. Tocca Privacy. \ N \ n3. Abilita accesso alla videocamera. \ N \ n4. Apri Super Gluu e riprova.";
+"Camera_Denied_Directions" =    "Fornisci l'accesso alla tua videocamera per procedere: \ n \ n1. Tocca il pulsante Vai per aprire Impostazioni. \ N \ n2. Tocca Privacy. \ N \ n3. Abilita accesso alla videocamera. \ N \ n4. Apri Labshare Auth e riprova.";
 "Camera_Access_Needed" =    "Accesso alla telecamera necessario";
 "Go" =     "Partire";
 
@@ -166,8 +166,8 @@
 
 "Reset_Passcode" =    "Reimposta Codice";
 "Same_Passcode" =    "Il nuovo codice deve essere diverso dal precedente.";
-"Pincode_Info" =    "Se abilitato, l'accesso a Super Gluu sarà protetto da un codice di tua scelta.";
-"Locked_App_Info" =   "Super Gluu will be locked for 10 minutes after 5 failed attempts.";
+"Pincode_Info" =    "Se abilitato, l'accesso a Labshare Auth sarà protetto da un codice di tua scelta.";
+"Locked_App_Info" =   "Labshare Auth will be locked for 10 minutes after 5 failed attempts.";
 
 "Unable_To_Restore" =    "Impossibile ripristinare";
 "TOS" =    "Termini di servizio";
@@ -184,7 +184,7 @@
 
 "Add_Secure_Entry" =    "Aggiungi voce sicura";
 "Yesterday" =     "ieri";
-"When_Enabled_FaceId" =    "Se abilitato, l'accesso a Super Gluu sarà protetto da Face ID";
+"When_Enabled_FaceId" =    "Se abilitato, l'accesso a Labshare Auth sarà protetto da Face ID";
 
 "Registration" = "Registrazione";
 "Authentication" = "Autenticazione";

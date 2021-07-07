@@ -21,7 +21,7 @@
 "Home_Expired_Push"         = "Votre push notification a expir";
 "Subscription_Details" = "Détails de la subscriptio";
 "Details"              = "Détails";
-"Subscription_Info"    = "L'abonnement mensuel rend Super Gluu totalement sans publicité. Après un achat réussi, vous ne verrez plus de bannières ni d’annonces plein écran. Votre paiement sera débité de votre compte iTunes une fois que vous aurez confirmé votre achat. Votre compte iTunes sera facturé à nouveau lorsque votre abonnement sera automatiquement renouvelé à la fin de votre période d'abonnement en cours, à moins que le renouvellement automatique ne soit désactivé au moins 24 heures avant la fin de la période en cours. Toute portion inutilisée de la période d'essai gratuite sera perdue lors de l'achat de l'abonnement. Vous pouvez gérer ou désactiver le renouvellement automatique dans les paramètres de votre compte Apple ID à tout moment après l'achat.";
+"Subscription_Info"    = "L'abonnement mensuel rend Labshare Auth totalement sans publicité. Après un achat réussi, vous ne verrez plus de bannières ni d’annonces plein écran. Votre paiement sera débité de votre compte iTunes une fois que vous aurez confirmé votre achat. Votre compte iTunes sera facturé à nouveau lorsque votre abonnement sera automatiquement renouvelé à la fin de votre période d'abonnement en cours, à moins que le renouvellement automatique ne soit désactivé au moins 24 heures avant la fin de la période en cours. Toute portion inutilisée de la période d'essai gratuite sera perdue lors de l'achat de l'abonnement. Vous pouvez gérer ou désactiver le renouvellement automatique dans les paramètres de votre compte Apple ID à tout moment après l'achat.";
 "Menu_Logs"           = "Fichiers de logs";
 "Menu_Keys"           = "Clés";
 "Menu_Passcode"       = "Code";
@@ -29,8 +29,8 @@
 "Menu_Privacy_Policy" = "Politique de confidentialité";
 "Menu_Settings"       = "Paramètres";
 "Menu_Help"           = "Aide";
-"Logs_Description" = "A Chaque fois que Super Gluu est utilisé, une transaction es loggué dans votre application.";
-"Passcode_Enabled_Info"   = "Quand activé, l'accès à Super Gluu sera protégé par Touch ID.";
+"Logs_Description" = "A Chaque fois que Labshare Auth est utilisé, une transaction es loggué dans votre application.";
+"Passcode_Enabled_Info"   = "Quand activé, l'accès à Labshare Auth sera protégé par Touch ID.";
 "Passcode_Touch"          = "Touch ID";
 "Passcode_Touch_Security" = "Touch Securité";
 "Passcode_Set"                 = "Apliquer le code";
@@ -45,13 +45,13 @@
 "Passcode_Try_Again"           = "Les codes ne correspondent pas. Veuillez réessayer.";
 "Passcode_Attempts_Left"       = "Essai(s) restants";
 "Passcode_Next"                = "Suivant";
-"SSL_Info"  = "Quand activé, Super Gluu fera confiance à tous les serveurs avec certificats auto-signé. Récommandé juste en mode developpement.";
+"SSL_Info"  = "Quand activé, Labshare Auth fera confiance à tous les serveurs avec certificats auto-signé. Récommandé juste en mode developpement.";
 "SSL_Trust" = "Accepter tous les SSL";
 "Log_Key_Username"    = "Nom d'utilisateur";
 "Log_Key_Created"     = "Crée";
 "Log_Key_Id_Provider" = "Fournisseur de clé";
 "Log_Key_Key_Handle"  = "Clé de gestion";
-"Keys_Info"       = "Une clé privée unique est génerée et stocké dans votre appareil à chaque fois aue vous sécuriser un nouveau compte avec Super Gluu.";
+"Keys_Info"       = "Une clé privée unique est génerée et stocké dans votre appareil à chaque fois aue vous sécuriser un nouveau compte avec Labshare Auth.";
 "Keys_Text_Value" = "Value de la texte:";
 "Info_Delete_Key"           = "Voulez vous supprimer cette clé?";
 "Info_Change_Name_How_To"   = "Pour changer le nom de la clé, appyez et maintenez pendant 3 secondes. ";
@@ -101,7 +101,7 @@
 "Failed_Attempts_Warning" = "L'application sera verouillée pendant 10 minutes.";
 
 
-"Camera_Denied_Directions" =    "Donnez accès à votre caméra pour continuer: \ n \ n1. Appuyez sur le bouton OK pour ouvrir les paramètres. \ N \ n2. Appuyez sur Confidentialité. \ N \ n3. Activez l'accès à la caméra. \ N \ n4. Ouvrez Super Gluu et réessayez. ";
+"Camera_Denied_Directions" =    "Donnez accès à votre caméra pour continuer: \ n \ n1. Appuyez sur le bouton OK pour ouvrir les paramètres. \ N \ n2. Appuyez sur Confidentialité. \ N \ n3. Activez l'accès à la caméra. \ N \ n4. Ouvrez Labshare Auth et réessayez. ";
 "Camera_Access_Needed" =    "Accès à la caméra nécessaire";
 
 
@@ -122,9 +122,9 @@
 
 "Reset_Passcode" =    "Réinitialiser le code";
 "Same_Passcode" =    "Votre nouveau code d'accès doit être différent de votre précédent.";
-"Pincode_Info" =    "Lorsqu'il est activé, l'accès à Super Gluu sera protégé par un mot de passe de votre choix.";
+"Pincode_Info" =    "Lorsqu'il est activé, l'accès à Labshare Auth sera protégé par un mot de passe de votre choix.";
 
-"Locked_App_Info" =   "Super Gluu sera verrouillé pendant 10 minutes après 5 tentatives infructueuses.";
+"Locked_App_Info" =   "Labshare Auth sera verrouillé pendant 10 minutes après 5 tentatives infructueuses.";
 "Unable_To_Restore" =    "Impossible de restaurer";
 "TOS" =    "Conditions d'utilisation";
 
@@ -139,7 +139,7 @@
 "Enroll_Declined" =    "Inscription refusée à";
 "Add_Secure_Entry" =    "Ajouter une entrée sécurisée";
 "Yesterday" =     "hier";
-"When_Enabled_FaceId" =    "Lorsqu'il est activé, l'accès à Super Gluu sera protégé par un identifiant de visage";
+"When_Enabled_FaceId" =    "Lorsqu'il est activé, l'accès à Labshare Auth sera protégé par un identifiant de visage";
 
 "Registration" = "Enregistrement";
 "Authentication" = "Authentification";

@@ -201,14 +201,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 		
 		guard let currentVersion = Int(noDotsVersion) else { return }
 
-		let badVersion = Int(3405)
+		let badVersion = Int(99)
 		
 		if badVersion > currentVersion {
 
 			let alert = SCLAlertView(showCloseButton: true, horizontalButtons: false)
 		   
-		   alert.showCustom("Please update Super Gluu",
-							subTitle: "There is a new version of Super Gluu available for download. Please update to prevent any issues.",
+		   alert.showCustom("Please update Labshare Auth",
+							subTitle: "There is a new version of Labshare Auth available for download. Please update to prevent any issues.",
 							color: AppConfiguration.systemColor,
 							closeButtonTitle: LocalString.Ok.localized,
 							circleIconImage: AppConfiguration.systemAlertIcon,
