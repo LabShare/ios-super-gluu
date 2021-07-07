@@ -14,7 +14,7 @@
 "Home_Check_Internet"       = "Controleer je internetverbinding en probeer het opnieuw";
 "Home_No_Internet"          = "Geen internetverbinding";
 "Home_Tap_To_Scan_QR"       = "Je kunt een QR code krijgen voor registratie of authenticatie. Druk op de knop om je QR scanner te openen";
-"Home_Welcome"              = "Welkom bij Super Gluu";
+"Home_Welcome"              = "Welkom bij Labshare Auth";
 "Home_Scan"                 = "Scan QR code";
 "Home_Remove_Ads"           = "Verwijder reclame";
 "Home_QR_Not_Recognized"    = "QR Code niet herkend, Probeer nogmaals.";
@@ -31,7 +31,7 @@
 
 "Subscription_Details" = "Abonnementsdetails";
 "Details"              = "Details";
-"Subscription_Info"    = "Het maandelijkse abonnement maar Super Gluu reclamevrij. Na een succesvolle aanschaf, zie je geen banners of volledig scherm advertenties meer. Je betaling wordt belastop je iTunes account als je de betaling bevestigt. Je iTunes account wordt opnieuw belast als je abonnement automatisch aan het eind van de abonnementsperiode wordt verlengd, tenzij de automatische verleging minimaal 24 uur voor het eind van de huidige periode wordt beëindigd. Ongebruikte tijd van de gratis proefperiode vervalt bij aankoop van een abonnement. Je kunt na aanschaf altijd auto-verversing beheren of uitschakelen in je Apple ID Account Instellingen";
+"Subscription_Info"    = "Het maandelijkse abonnement maar Labshare Auth reclamevrij. Na een succesvolle aanschaf, zie je geen banners of volledig scherm advertenties meer. Je betaling wordt belastop je iTunes account als je de betaling bevestigt. Je iTunes account wordt opnieuw belast als je abonnement automatisch aan het eind van de abonnementsperiode wordt verlengd, tenzij de automatische verleging minimaal 24 uur voor het eind van de huidige periode wordt beëindigd. Ongebruikte tijd van de gratis proefperiode vervalt bij aankoop van een abonnement. Je kunt na aanschaf altijd auto-verversing beheren of uitschakelen in je Apple ID Account Instellingen";
 
 
 "Menu_Logs"           = "Logs";
@@ -43,10 +43,10 @@
 "Menu_Help"           = "Help";
 
 
-"Logs_Description" = "Elke keer dat Super Gluu wordt gebruikt, wordt een transactielogregel geregistreerd in de app.";
+"Logs_Description" = "Elke keer dat Labshare Auth wordt gebruikt, wordt een transactielogregel geregistreerd in de app.";
 
 
-"Passcode_Enabled_Info"   = "Wanneer ingeschakeld wordt toegang tot Super Gluu beschermd door Touch ID.";
+"Passcode_Enabled_Info"   = "Wanneer ingeschakeld wordt toegang tot Labshare Auth beschermd door Touch ID.";
 "Passcode_Touch"          = "Touch ID";
 "Passcode_Touch_Security" = "Touch Security";
 
@@ -65,7 +65,7 @@
 "Passcode_Next"                = "Volgende";
 
 
-"SSL_Info"  = "Wanneer ingeschakeld zal Super Gluu servers met zelf-ondertekende certificaten vertrouwen. Alleen aanbevolen voor ontwikkeldoeleinden.";
+"SSL_Info"  = "Wanneer ingeschakeld zal Labshare Auth servers met zelf-ondertekende certificaten vertrouwen. Alleen aanbevolen voor ontwikkeldoeleinden.";
 "SSL_Trust" = "Vertrouw alle SSL";
 
 
@@ -75,7 +75,7 @@
 "Log_Key_Key_Handle"  = "Sleutelnaam";
 
 
-"Keys_Info"       = "Elke keer dat je een nieuw account met Super Gluu beveiligt, wordt er een unieke persoonlijke sleutel gegenereerd en opgeslagen op je toestel ";
+"Keys_Info"       = "Elke keer dat je een nieuw account met Labshare Auth beveiligt, wordt er een unieke persoonlijke sleutel gegenereerd en opgeslagen op je toestel ";
 "Keys_Text_Value" = "Tekstwaarde:";
 
 
@@ -142,7 +142,7 @@
 
 
 
-"Camera_Denied_Directions" =    "Geef toegang tot uw camera om door te gaan: \ n \ n1. Tik op de Go-knop om Instellingen te openen. \ N \ n2. Tik op Privacy. \ N \ n3. Cameratoegang inschakelen. \ N \ n4. Open Super Gluu en probeer het opnieuw .";
+"Camera_Denied_Directions" =    "Geef toegang tot uw camera om door te gaan: \ n \ n1. Tik op de Go-knop om Instellingen te openen. \ N \ n2. Tik op Privacy. \ N \ n3. Cameratoegang inschakelen. \ N \ n4. Open Labshare Auth en probeer het opnieuw .";
 "Camera_Access_Needed" =    "Cameratoegang vereist";
 "Go" =     "Gaan";
 
@@ -164,8 +164,8 @@
 
 "Reset_Passcode" =    "Reset Inlogcode";
 "Same_Passcode" =    "Uw nieuwe inlogcode moet anders zijn dan uw vorige.";
-"Pincode_Info" =    "Indien ingeschakeld, wordt de toegang tot Super Gluu beschermd door een inlogcode naar keuze.";
-"Locked_App_Info" =  "Super Gluu wordt 10 minuten vergrendeld na 5 mislukte pogingen.";
+"Pincode_Info" =    "Indien ingeschakeld, wordt de toegang tot Labshare Auth beschermd door een inlogcode naar keuze.";
+"Locked_App_Info" =  "Labshare Auth wordt 10 minuten vergrendeld na 5 mislukte pogingen.";
 
 "Unable_To_Restore" =    "Kan niet herstellen";
 "TOS" =    "Servicevoorwaarden";
@@ -183,7 +183,7 @@
 
 "Add_Secure_Entry" =    "Beveiligde invoer toevoegen";
 "Yesterday" =     "gisteren";
-"When_Enabled_FaceId" =    "Indien ingeschakeld, wordt de toegang tot Super Gluu beschermd door Face ID";
+"When_Enabled_FaceId" =    "Indien ingeschakeld, wordt de toegang tot Labshare Auth beschermd door Face ID";
 
 
 "Registration" = "Registratie";

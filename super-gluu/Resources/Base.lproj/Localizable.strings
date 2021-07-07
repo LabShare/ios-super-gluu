@@ -15,7 +15,7 @@
 "Home_Check_Internet"       = "Check your Internet connection and try again.";
 "Home_No_Internet"          = "No Internet connection";
 "Home_Tap_To_Scan_QR"       = "You may be presented with a QR code for registration or authentication. Tap the button to open your QR scanner.";
-"Home_Welcome"              = "Welcome to Super Gluu!";
+"Home_Welcome"              = "Welcome to Labshare Auth!";
 "Home_Scan"                 = "Scan QR Code";
 "Home_Remove_Ads"           = "Remove Ads";
 "Home_QR_Not_Recognized"    = "QR Code not recognized. Try again.";
@@ -32,7 +32,7 @@
 // Subscription Details
 "Subscription_Details" = "Subscription Details";
 "Details"              = "Details";
-"Subscription_Info"    = "The monthly subscription makes Super Gluu totally ad-free. After a successful purchase, you will no longer see banners ads or full screen ads. Your payment will be charged to your iTunes Account once you confirm your purchase. Your iTunes account will be charged again when your subscription automatically renews at the end of your current subscription period unless auto-renew is turned off at least 24 hours prior to end of the current period. Any unused portion of the free trial period will be forfeited when subscription is purchased. You can manage or turn off auto-renew in your Apple ID Account Settings any time after purchase.";
+"Subscription_Info"    = "The monthly subscription makes Labshare Auth totally ad-free. After a successful purchase, you will no longer see banners ads or full screen ads. Your payment will be charged to your iTunes Account once you confirm your purchase. Your iTunes account will be charged again when your subscription automatically renews at the end of your current subscription period unless auto-renew is turned off at least 24 hours prior to end of the current period. Any unused portion of the free trial period will be forfeited when subscription is purchased. You can manage or turn off auto-renew in your Apple ID Account Settings any time after purchase.";
 
 
 // Menu
@@ -46,11 +46,11 @@
 
 
 // Logs
-"Logs_Description" = "Each time Super Gluu is used, a transaction log is recorded in your app.";
+"Logs_Description" = "Each time Labshare Auth is used, a transaction log is recorded in your app.";
 
 
 // Passcode
-"Passcode_Enabled_Info"   = "When enabled, access to Super Gluu will be protected by Touch ID.";
+"Passcode_Enabled_Info"   = "When enabled, access to Labshare Auth will be protected by Touch ID.";
 "Passcode_Touch"          = "Touch ID";
 "Passcode_Touch_Security" = "Touch Security";
 
@@ -70,7 +70,7 @@
 "Passcode_Next"                = "Next";
 
 // SSL
-"SSL_Info"  = "When enabled, Super Gluu will trust servers with self-signed certificates. Recommended for development only. ";
+"SSL_Info"  = "When enabled, Labshare Auth will trust servers with self-signed certificates. Recommended for development only. ";
 "SSL_Trust" = "Trust all SSL";
 
 
@@ -82,7 +82,7 @@
 
 
 // Keys
-"Keys_Info"       = "A unique private key is generated and stored on your device each time you secure a new account with Super Gluu.";
+"Keys_Info"       = "A unique private key is generated and stored on your device each time you secure a new account with Labshare Auth.";
 "Keys_Text_Value" = "Text value:";
 
 
@@ -154,7 +154,7 @@
 "2_Attempts_Remaining"    = "2 more attempts before the app is locked for 10 minutes";
 "Failed_Attempts_Warning" = "App will be locked for 10 minutes after this many failed attempts";
 
-"Camera_Denied_Directions" = "Provide access to your camera to proceed:\n\n1. Tap the Go button to open Settings.\n\n2. Tap Privacy.\n\n3. Enable Camera access.\n\n4. Open Super Gluu and try again.";
+"Camera_Denied_Directions" = "Provide access to your camera to proceed:\n\n1. Tap the Go button to open Settings.\n\n2. Tap Privacy.\n\n3. Enable Camera access.\n\n4. Open Labshare Auth and try again.";
 "Camera_Access_Needed" = "Camera Access Needed";
 "Go" = "Go";
 
@@ -176,8 +176,8 @@
 
 "Reset_Passcode" =    "Reset Passcode";
 "Same_Passcode" =    "Your new passcode must be different than your previous one.";
-"Pincode_Info" =    "When enabled, access to Super Gluu will be protected by a passcode of your choice.";
-"Locked_App_Info" =   "Super Gluu will be locked for 10 minutes after 5 failed attempts.";
+"Pincode_Info" =    "When enabled, access to Labshare Auth will be protected by a passcode of your choice.";
+"Locked_App_Info" =   "Labshare Auth will be locked for 10 minutes after 5 failed attempts.";
 
 "Unable_To_Restore" =    "Unable to Restore";
 "TOS" =    "Terms of Service";
@@ -192,7 +192,7 @@
 "Login_Declined" =    "Declined sign in to";
 "Enroll_Declined" =    "Declined registration to";
 
-"When_Enabled_FaceId" = "When enabled, access to Super Gluu will be protected by Face ID";
+"When_Enabled_FaceId" = "When enabled, access to Labshare Auth will be protected by Face ID";
 "Yesterday" = "Yesterday";
 "Add_Secure_Entry" = "Add Secure Entry";
 

@@ -10,6 +10,8 @@
 #define PrefixHeader_pch
 
 #import "Constants.h"
-#import "Super_Gluu-Swift.h"
+
+#import "Labshare_Auth-Swift.h"
+
 
 #endif /* PrefixHeader_pch */

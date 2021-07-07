@@ -89,11 +89,11 @@ class HomeViewController: BaseViewController, ApproveDenyDelegate, QRCodeReaderV
         navigationItem.leftBarButtonItem = menuButton
         
         // setup the center logo icon
-        if let iconImage = UIImage(named: "icon_gluu_logo_nav") {
-            let logoIconView = UIImageView(image: iconImage)
-            logoIconView.frame = CGRect(x: 0, y: 0, width: iconImage.size.width, height: iconImage.size.height)
-            navigationItem.titleView = logoIconView
-        }
+//        if let iconImage = UIImage(named: "icon_gluu_logo_nav") {
+//            let logoIconView = UIImageView(image: iconImage)
+//            logoIconView.frame = CGRect(x: 0, y: 0, width: iconImage.size.width, height: iconImage.size.height)
+//            navigationItem.titleView = logoIconView
+//        }
             
         if GluuConstants.IS_IPHONE_6 {
             scanTextLabel.font = UIFont.systemFont(ofSize: 17)

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15400" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Dd1-BE-cwL">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Dd1-BE-cwL">
     <device id="retina4_7" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15404"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -77,6 +77,7 @@
                                 <rect key="frame" x="0.0" y="333.5" width="375" height="333.5"/>
                             </containerView>
                         </subviews>
+                        <viewLayoutGuide key="safeArea" id="TpC-kk-Lho"/>
                         <color key="backgroundColor" red="0.96862745100000003" green="0.96862745100000003" blue="0.96862745100000003" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="BzU-82-37p" firstAttribute="leading" secondItem="TpC-kk-Lho" secondAttribute="leading" id="0tJ-wj-bJD"/>
@@ -92,7 +93,6 @@
                             <constraint firstItem="cYk-gW-hlg" firstAttribute="top" secondItem="TpC-kk-Lho" secondAttribute="top" id="jGP-JL-UfY"/>
                             <constraint firstItem="nyN-LY-Uv7" firstAttribute="top" secondItem="cYk-gW-hlg" secondAttribute="bottom" id="q24-2o-qX4"/>
                         </constraints>
-                        <viewLayoutGuide key="safeArea" id="TpC-kk-Lho"/>
                     </view>
                     <navigationItem key="navigationItem" id="z3z-je-fEZ"/>
                     <connections>
@@ -134,9 +134,9 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="350"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LyT-4V-bTN">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LyT-4V-bTN">
                                 <rect key="frame" x="47" y="160" width="281" height="38"/>
-                                <color key="backgroundColor" red="0.0" green="0.63607400660000002" blue="0.37179875369999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" red="0.37279355530000002" green="0.19017237419999999" blue="0.4078619778" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="38" id="DSQ-rQ-X8a"/>
                                 </constraints>
@@ -147,10 +147,10 @@
                                     <action selector="enterPasscodeTapped" destination="BNr-At-y8D" eventType="touchUpInside" id="7JQ-yd-N4A"/>
                                 </connections>
                             </button>
-                            <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="x3b-mF-NOc">
+                            <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="x3b-mF-NOc">
                                 <rect key="frame" x="47" y="288" width="281" height="38"/>
                                 <state key="normal" title="Forgot Passcode">
-                                    <color key="titleColor" red="0.0" green="0.63607400660000002" blue="0.37179875369999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="titleColor" red="0.37279355530000002" green="0.19017237419999999" blue="0.4078619778" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </state>
                                 <connections>
                                     <action selector="lockedOutTapped" destination="BNr-At-y8D" eventType="touchUpInside" id="1MT-yA-OgT"/>
@@ -163,13 +163,14 @@
                                     <constraint firstAttribute="height" constant="50" id="7T0-t8-smn"/>
                                     <constraint firstAttribute="width" constant="50" id="83T-6g-1JZ"/>
                                 </constraints>
-                                <color key="tintColor" red="0.00044826010707765818" green="0.6360466480255127" blue="0.37164115905761719" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="tintColor" red="0.37279355530000002" green="0.19017237419999999" blue="0.4078619778" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <state key="normal" image="icon_fingerprint"/>
                                 <connections>
                                     <action selector="bioAuthTapped" destination="BNr-At-y8D" eventType="touchUpInside" id="KOy-HW-H80"/>
                                 </connections>
                             </button>
                         </subviews>
+                        <viewLayoutGuide key="safeArea" id="ZVT-r3-WX8"/>
                         <color key="backgroundColor" red="0.96862745100000003" green="0.96862745100000003" blue="0.96862745100000003" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="x3b-mF-NOc" firstAttribute="width" secondItem="LyT-4V-bTN" secondAttribute="width" id="CIe-sp-E3c"/>
@@ -182,7 +183,6 @@
                             <constraint firstItem="LyT-4V-bTN" firstAttribute="width" secondItem="ekU-1b-s9j" secondAttribute="width" multiplier="3:4" id="vkX-VZ-O8x"/>
                             <constraint firstItem="zcw-10-p3D" firstAttribute="top" secondItem="x3b-mF-NOc" secondAttribute="bottom" constant="24" id="wjz-jV-Bcg"/>
                         </constraints>
-                        <viewLayoutGuide key="safeArea" id="ZVT-r3-WX8"/>
                     </view>
                     <navigationItem key="navigationItem" id="hb3-Nm-5I8"/>
                     <size key="freeformSize" width="375" height="350"/>
@@ -224,7 +224,7 @@
                                                 <inset key="contentEdgeInsets" minX="15" minY="0.0" maxX="0.0" maxY="0.0"/>
                                                 <inset key="titleEdgeInsets" minX="15" minY="0.0" maxX="0.0" maxY="0.0"/>
                                                 <state key="normal" title="Security_Touch_Id" image="icon_settings_touchid">
-                                                    <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
+                                                    <color key="titleColor" systemColor="darkTextColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="bioTapped" destination="h9T-6e-ePE" eventType="touchUpInside" id="6If-uY-TOX"/>
@@ -245,7 +245,7 @@
                                                 <inset key="contentEdgeInsets" minX="15" minY="0.0" maxX="0.0" maxY="0.0"/>
                                                 <inset key="titleEdgeInsets" minX="15" minY="0.0" maxX="0.0" maxY="0.0"/>
                                                 <state key="normal" title="Security_Passcode" image="icon_settings_pin">
-                                                    <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
+                                                    <color key="titleColor" systemColor="darkTextColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pinTapped" destination="h9T-6e-ePE" eventType="touchUpInside" id="EIe-Jw-cfz"/>
@@ -274,13 +274,13 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
+                        <viewLayoutGuide key="safeArea" id="j0W-Sh-53o"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstAttribute="trailing" secondItem="j8O-g5-19X" secondAttribute="trailing" id="0SC-l7-rfa"/>
                             <constraint firstItem="j8O-g5-19X" firstAttribute="leading" secondItem="qhx-9c-FjM" secondAttribute="leading" id="Tb3-JQ-UOj"/>
                             <constraint firstItem="j8O-g5-19X" firstAttribute="centerY" secondItem="j0W-Sh-53o" secondAttribute="centerY" id="WyI-q1-FG8"/>
                         </constraints>
-                        <viewLayoutGuide key="safeArea" id="j0W-Sh-53o"/>
                     </view>
                     <navigationItem key="navigationItem" id="JXu-kj-bFC"/>
                     <size key="freeformSize" width="375" height="300"/>
@@ -299,10 +299,13 @@
         </scene>
     </scenes>
     <resources>
-        <image name="gluu_logo" width="122" height="140"/>
+        <image name="gluu_logo" width="180" height="180"/>
         <image name="icon_fingerprint" width="24" height="24"/>
         <image name="icon_lock" width="37" height="50"/>
         <image name="icon_settings_pin" width="29" height="30"/>
         <image name="icon_settings_touchid" width="29" height="30"/>
+        <systemColor name="darkTextColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
     </resources>
 </document>

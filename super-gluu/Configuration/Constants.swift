@@ -23,8 +23,8 @@ struct AlertConstants {
 struct GluuConstants {
     
     // Settings
-    static let PRIVACY_POLICY = "https://docs.google.com/document/d/1E1xWq28_f-tam7PihkTZXhlqaXVGZxJbVt4cfx15kB4/edit#heading=h.ifitnnlwr25"
-    static let TERMS_OF_SERVICE = "https://gluu.org/docs/supergluu/user-guide/"
+    static let PRIVACY_POLICY = "https://a.labshare.org/_api/auth/docs/privacy-notice.pdf"
+    static let TERMS_OF_SERVICE = "https://labshare.github.io/auth-docs/"
     
     // Google Ads
 	static let GOOGLE_AD_ID = "ca-app-pub-3326465223655655~8301521230"

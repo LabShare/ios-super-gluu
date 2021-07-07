@@ -15,7 +15,7 @@
 "Home_Check_Internet"       = "İnternet bağlantınızı kontrol edin ve tekrar deneyin.";
 "Home_No_Internet"          = "İnternet bağlantısı yok";
 "Home_Tap_To_Scan_QR"       = "Kayıtlanma veya kimlik doğrulama için size bir QR kodu sunulabilir. QR tarayıcınızı açmak için düğmeye dokunun.";
-"Home_Welcome"              = "Super Gluu'ya Hoşgeldiniz!";
+"Home_Welcome"              = "Labshare Auth'ya Hoşgeldiniz!";
 "Home_Scan"                 = "QR kodu tara";
 "Home_Remove_Ads"           = "Reklamları Kaldır";
 "Home_QR_Not_Recognized"    = "QR kodu tanınmadı. Tekrar deneyin.";
@@ -32,7 +32,7 @@
 
 "Subscription_Details" = "Abonelik Detayları";
 "Details"              = "Detaylar";
-"Subscription_Info"    = "Super Gluu'ya aylık abonelik reklamları tamamen kaldırır. Başarılı satın alma olduğunda, pankart ya da tam ekran reklam görmeyeceksiniz. Satın almayı onayladığınızda ödeme iTunes hesabınıza ücretlendirilecektir. Yürürlükte olan abonelik sürenizin bitiminden 24 saat önce otomatik yenilenmeyi kapatmadığınızda aboneliğinizin süresi dolduğunda otomatik olarak yenilenecek olup iTunes hesabınıza ücretlendirilecektir. Abonelik satın alındığında kullanılmayan ücretsiz deneme süresi yanacaktır. Satın almadan sonra Apple ID Kimlik Hesap ayarlarınızı yönetebilir veya otomatik yenilemeyi kapatabilirsiniz.";
+"Subscription_Info"    = "Labshare Auth'ya aylık abonelik reklamları tamamen kaldırır. Başarılı satın alma olduğunda, pankart ya da tam ekran reklam görmeyeceksiniz. Satın almayı onayladığınızda ödeme iTunes hesabınıza ücretlendirilecektir. Yürürlükte olan abonelik sürenizin bitiminden 24 saat önce otomatik yenilenmeyi kapatmadığınızda aboneliğinizin süresi dolduğunda otomatik olarak yenilenecek olup iTunes hesabınıza ücretlendirilecektir. Abonelik satın alındığında kullanılmayan ücretsiz deneme süresi yanacaktır. Satın almadan sonra Apple ID Kimlik Hesap ayarlarınızı yönetebilir veya otomatik yenilemeyi kapatabilirsiniz.";
 
 
 "Menu_Logs"           = "Kütükler";
@@ -44,10 +44,10 @@
 "Menu_Help"           = "Yardım";
 
 
-"Logs_Description" = "Super Gluu her kullanıldığında, uygulamanızda bir işlem kütüğü kaydedilir.";
+"Logs_Description" = "Labshare Auth her kullanıldığında, uygulamanızda bir işlem kütüğü kaydedilir.";
 
 
-"Passcode_Enabled_Info"   = "Etkinleştirilirse, Super Gluu'ya erişim Dokunmatik Kimlik ile korunur.";
+"Passcode_Enabled_Info"   = "Etkinleştirilirse, Labshare Auth'ya erişim Dokunmatik Kimlik ile korunur.";
 "Passcode_Touch"          = "Dokunmatik Kimlik";
 "Passcode_Touch_Security" = "Dokunmatik Güvenlik";
 
@@ -66,7 +66,7 @@
 "Passcode_Next"                = "Sonraki";
 
 
-"SSL_Info"  = "Etkinleştirilirse, Super Gluu kendinden imzalı sertifikalı sunuculara güvenir. Sadece geliştirme için önerilir.";
+"SSL_Info"  = "Etkinleştirilirse, Labshare Auth kendinden imzalı sertifikalı sunuculara güvenir. Sadece geliştirme için önerilir.";
 "SSL_Trust" = "Tüm SSL'e Güven";
 
 
@@ -76,7 +76,7 @@
 "Log_Key_Key_Handle"  = "Anahtar Kolu";
 
 
-"Keys_Info"       = "Yeni bir hesabı Super Gluu ile güvenleştirdiğinizde her seferinde yeni bir anahtar oluşturulur ve cihazınızda saklanır.";
+"Keys_Info"       = "Yeni bir hesabı Labshare Auth ile güvenleştirdiğinizde her seferinde yeni bir anahtar oluşturulur ve cihazınızda saklanır.";
 "Keys_Text_Value" = "Metin değer:";
 
 
@@ -166,8 +166,8 @@
 
 "Reset_Passcode" =    "Parolakodu Sıfırla";
 "Same_Passcode" =    "Yeni parolakodu öncekinden farklı olmalıdır.";
-"Pincode_Info" =    "Etkinleştirildiğinde, Super Gluu'ya erişim, seçtiğiniz bir parolakodu ile korunacaktır.";
-"Locked_App_Info" =    "5 başarısız denemeden sonra Super Gluu 10 dakika kilitlenir.";
+"Pincode_Info" =    "Etkinleştirildiğinde, Labshare Auth'ya erişim, seçtiğiniz bir parolakodu ile korunacaktır.";
+"Locked_App_Info" =    "5 başarısız denemeden sonra Labshare Auth 10 dakika kilitlenir.";
 
 "Unable_To_Restore" =    "Geri Yüklenemedi";
 "TOS" =    "Kullanım Şartları";
@@ -184,7 +184,7 @@
 
 "Add_Secure_Entry" =    "Güvenli Giriş Ekle";
 "Yesterday" =     "dün";
-"When_Enabled_FaceId" =    "Etkinleştirildiğinde, Super Gluu'ya erişim Face ID tarafından korunacaktır";
+"When_Enabled_FaceId" =    "Etkinleştirildiğinde, Labshare Auth'ya erişim Face ID tarafından korunacaktır";
 
 
 "Registration" = "Kayıt";

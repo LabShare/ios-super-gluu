@@ -15,7 +15,7 @@
 "Home_Check_Internet"       = "インターネット接続を確認して再試行して下さい。";
 "Home_No_Internet"          = "インターネット接続がありません";
 "Home_Tap_To_Scan_QR"       = "登録または認証用のQRコードを表示することがあります。ボタンをタップしてQRスキャナーを開いてください。";
-"Home_Welcome"              = "Super Gluuへようこそ！";
+"Home_Welcome"              = "Labshare Authへようこそ！";
 "Home_Scan"                 = "QRコードをスキャンする";
 "Home_Remove_Ads"           = "広告を削除する";
 "Home_QR_Not_Recognized"    = "QRコードを読み取れません。再試行して下さい。";
@@ -32,7 +32,7 @@
     // Subscription Details;
 "Subscription_Details" = "サブスクリプションの詳細";
 "Details"              = "詳細";
-"Subscription_Info"    = "毎月のサブスクリプションを購入するとSuper Gluuを完全に広告なしにできます。購入が成功するとバナー広告やフルスクリーン広告は表示されなくなります。購入の確認した後は、支払いはiTunesアカウントに請求されます。自動更新が現在の期間の終了の少なくとも24時間前にオフにされていない限り、当サブスクリプション期間の終わりにサブスクリプションが自動的に更新されるとき、iTunesアカウントは再び課金されます。無料試用期間の未使用部分は、サブスクリプションを購入した時点で失効します。購入後はいつでもApple IDアカウント設定で自動更新を管理または無効にできます。";
+"Subscription_Info"    = "毎月のサブスクリプションを購入するとLabshare Authを完全に広告なしにできます。購入が成功するとバナー広告やフルスクリーン広告は表示されなくなります。購入の確認した後は、支払いはiTunesアカウントに請求されます。自動更新が現在の期間の終了の少なくとも24時間前にオフにされていない限り、当サブスクリプション期間の終わりにサブスクリプションが自動的に更新されるとき、iTunesアカウントは再び課金されます。無料試用期間の未使用部分は、サブスクリプションを購入した時点で失効します。購入後はいつでもApple IDアカウント設定で自動更新を管理または無効にできます。";
 
     // Menu
 "Menu_Logs"           = "ログ";
@@ -44,10 +44,10 @@
 "Menu_Help"           = "ヘルプ";
 
     // Logs;
-"Logs_Description" = "Super Gluuを使用する度にトランザクションログがアプリに記録されます。";
+"Logs_Description" = "Labshare Authを使用する度にトランザクションログがアプリに記録されます。";
 
     // Passcode;
-"Passcode_Enabled_Info"   = "有効にするとSuper GluuへのアクセスはタッチIDによって保護されます。";
+"Passcode_Enabled_Info"   = "有効にするとLabshare AuthへのアクセスはタッチIDによって保護されます。";
 "Passcode_Touch"          = "Touch ID";
 "Passcode_Touch_Security" = "タッチセキュリティ";
 
@@ -66,7 +66,7 @@
 "Passcode_Next"                = "次";
 
     // SSL;
-"SSL_Info"  = "Super Gluuを有効にすると、Super Gluuは自分が署名した証明書でサーバーを信頼します。開発時のみを推奨";
+"SSL_Info"  = "Labshare Authを有効にすると、Labshare Authは自分が署名した証明書でサーバーを信頼します。開発時のみを推奨";
 "SSL_Trust" = "すべてのSSLを信頼";
 
     // Log/Key Detail;
@@ -76,7 +76,7 @@
 "Log_Key_Key_Handle"  = "キーハンドル";
 
     // Keys;
-"Keys_Info"       = "Super Gluuで新しいアカウントを保護する度に固有の秘密鍵が生成され、あなたのデバイスに保存されます。";
+"Keys_Info"       = "Labshare Authで新しいアカウントを保護する度に固有の秘密鍵が生成され、あなたのデバイスに保存されます。";
 "Keys_Text_Value" = "文字列値:";
 
     // InformationVC;
@@ -166,8 +166,8 @@
 
 "Reset_Passcode" =    "パスコードをリセット";
 "Same_Passcode" =    "新しいパスコードは、以前のものと異なる必要があります。";
-"Pincode_Info" =    "有効にすると、Super Gluuへのアクセスは選択したパスコードによって保護されます。";
-"Locked_App_Info" =   "Super Gluuは、5回失敗すると10分間ロックされます。";
+"Pincode_Info" =    "有効にすると、Labshare Authへのアクセスは選択したパスコードによって保護されます。";
+"Locked_App_Info" =   "Labshare Authは、5回失敗すると10分間ロックされます。";
 
 "Unable_To_Restore" =    "復元できません";
 "TOS" =    "利用規約";
@@ -185,7 +185,7 @@
 
 "Add_Secure_Entry" =    "安全なエントリを追加";
 "Yesterday" =     "昨日";
-"When_Enabled_FaceId" =    "有効にすると、Super GluuへのアクセスはFace IDによって保護されます";
+"When_Enabled_FaceId" =    "有効にすると、Labshare AuthへのアクセスはFace IDによって保護されます";
 
 
 "Registration" = "登録";
